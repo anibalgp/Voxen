@@ -1,0 +1,24 @@
+# Binarios ejecutables de Voxen
+voxen
+voxen.exe
+
+# Modelos y pesos (IA)
+models/
+voices/
+*.gguf
+*.bin
+*.onnx
+
+# Archivos de empaquetado y temporales
+*.tar.gz
+*.zip
+*.log
+input.wav
+*.wav
+
+# Configuracion y entorno local
+.env
+.env.backup*
+
+# Herramientas auxiliares descargadas
+tools/
